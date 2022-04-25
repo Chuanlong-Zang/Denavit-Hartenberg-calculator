@@ -25,3 +25,7 @@ However, the product cannot be computed by hand efficiently. With this small scr
 3. Run and get the result!
 
 If you need to compute a 3-link or 5-link robot arm, you need to adjust the script accordingly. But the idea is the same:)
+
+## A little more
+
+Please note that the DH convention defined above is NOT possible to express arbitrary rigid body transformations. (No rotation around the y-axis is accounted for within the DH convention.)
