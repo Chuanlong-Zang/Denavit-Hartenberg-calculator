@@ -23,3 +23,5 @@ However, the product cannot be computed by hand efficiently. With this small scr
 1. Adjust the parameters in the beginning of the script.
 2. Adjust what you need as the result.
 3. Run and get the result!
+
+If you need to compute a 3-link or 5-link robot arm, you need to adjust the script accordingly. But the idea is the same:)
