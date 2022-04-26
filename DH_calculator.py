@@ -42,7 +42,7 @@ T_3_4 = sympy.Matrix([[sympy.cos(theia_4), -sympy.sin(theia_4), 0, a_3],
 ############# region 2: Here you need to input your known parameters (real numbers), if any #############
 
 """ something that might be frequently used
-np.pi / 2
+# np.pi / 2
 sympy.pi
 sympy.cos()
 sympy.sin()
