@@ -20,6 +20,10 @@ However, the product cannot be computed by hand efficiently. With this small scr
 
 ## Usage
 
+Given some known real values and some unknown parameterized values, this script first lists the individual coordinate transformation between links i and (i-1) to make sure things go right; and calculates the overall transformation between links 1 and 4. In fact, an arbitrary transformation can also be calculated.
+
+Follow the steps:
+
 1. Adjust the parameters in the beginning of the script.
 2. Adjust what you need as the result.
 3. Run and get the result!
