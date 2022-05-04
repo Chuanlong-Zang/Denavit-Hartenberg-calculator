@@ -3,7 +3,7 @@
 
 ## Description
 
-This script is based on [Denavit–Hartenberg parameters](https://en.wikipedia.org/wiki/Denavit%E2%80%93Hartenberg_parameters). And for two adjacent links i and (i-1) on the robot arm, we have the coordinate transformation:
+The background of this script is based on [Denavit–Hartenberg parameters](https://en.wikipedia.org/wiki/Denavit%E2%80%93Hartenberg_parameters). And for two adjacent links i and (i-1) on the robot arm, we have the coordinate transformation:
 
 ![transform](./img/transform.jpg)
 
